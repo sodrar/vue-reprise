@@ -1,0 +1,17 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "todo-list fullstack app.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bimboshbash"
+  ],
+  "author": "sosometh (sbd)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

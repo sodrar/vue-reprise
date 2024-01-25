@@ -1,1 +1,1 @@
-# vue-reprise
+# vue-reprise (fullstack App)
